@@ -2,3 +2,5 @@ chromedriver
 test*
 .idea
 mecab/
+news*
+\*.csv
